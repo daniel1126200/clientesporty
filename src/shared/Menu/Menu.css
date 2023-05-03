@@ -1,0 +1,7 @@
+.menu{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/musicosdani.appspot.com/o/fondo.jpg?alt=media&token=8ed879a8-bfe6-4ea6-a201-905b51981fbd");
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 10%;
+}

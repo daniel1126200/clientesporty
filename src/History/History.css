@@ -1,0 +1,7 @@
+.banner{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/musicosdani.appspot.com/o/fondo.webp?alt=media&token=fa365db3-b519-445f-90f6-247c8e3ff9aa");
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 10%;
+}
